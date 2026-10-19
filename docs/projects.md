@@ -38,7 +38,7 @@ predicted well enough to act on."
 | 6 | How many managers can actually pick stocks? | Give a pension trustee one number — it may be zero | `Fund` | Ch 13 *(module A7)* | end of course |
 
 The briefs, starters and notes live in
-[`Projects/`](https://github.com/ChrisW09/Quantitative-Research-Methods/tree/main/Projects).
+[`Projects/`](https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods/tree/main/Projects).
 Each project folder holds three files: the **brief** (`README.md`), a
 **Colab-ready starter notebook**, and **`SOLUTION_NOTES.md`** — what a good
 answer finds, the trap, and a marking guide.
@@ -47,7 +47,7 @@ Open a starter in Colab — nothing to install, the data resolves itself:
 
 | | | | | | |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| **1** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_1_caravan/project_1_starter.ipynb) | **2** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_2_college/project_2_starter.ipynb) | **3** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_3_weekly/project_3_starter.ipynb) | **4** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_4_oj/project_4_starter.ipynb) | **5** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_5_boston/project_5_starter.ipynb) | **6** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_6_fund/project_6_starter.ipynb) |
+| **1** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_1_caravan/project_1_starter.ipynb) | **2** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_2_college/project_2_starter.ipynb) | **3** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_3_weekly/project_3_starter.ipynb) | **4** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_4_oj/project_4_starter.ipynb) | **5** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_5_boston/project_5_starter.ipynb) | **6** [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_6_fund/project_6_starter.ipynb) |
 
 ```{admonition} Read the solution notes afterwards
 :class: tip

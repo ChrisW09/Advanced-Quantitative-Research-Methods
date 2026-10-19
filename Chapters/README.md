@@ -1,4 +1,4 @@
-# Chapters — Quantitative Research Methods
+# Chapters — Advanced Quantitative Research Methods
 
 The course material, one folder per chapter — for the **Quantitative Research
 Methods** course, based on *An Introduction to Statistical Learning, with

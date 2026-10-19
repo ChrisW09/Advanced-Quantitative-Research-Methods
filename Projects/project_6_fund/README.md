@@ -68,6 +68,6 @@ A memo that concludes **"no individual manager in this data set can be identifie
 
 Open [`project_6_starter.ipynb`](./project_6_starter.ipynb). It loads the data, prints the standard error that governs what this design can and cannot see, seals months 36–50, computes the two baselines you have to beat — Baseline A, allocating to all 2,000; Baseline B, the adviser's own rule fitted honestly — and gives you `evaluate_selection()`, which makes your number comparable with everyone else's. Note that **Baseline B's holdout return is negative**; it is a real baseline and beating it is not automatic. Your work begins at the cell marked **Step 1**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_6_fund/project_6_starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_6_fund/project_6_starter.ipynb)
 
 Do not read `SOLUTION_NOTES.md` until you have a memo of your own.

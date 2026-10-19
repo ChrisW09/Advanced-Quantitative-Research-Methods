@@ -1,4 +1,4 @@
-<h1 align="center">Quantitative Research Methods</h1>
+<h1 align="center">Advanced Quantitative Research Methods</h1>
 
 <p align="center">
   A complete, ready-to-teach university course in statistical learning —<br>
@@ -11,7 +11,7 @@
   <img alt="Jupyter notebooks" src="docs/badges/jupyter.svg">
   <img alt="Slides: LaTeX Beamer" src="docs/badges/slides.svg">
   <a href="#-lab-notebooks"><img alt="Open in Colab" src="docs/badges/colab.svg"></a>
-  <a href="https://chrisw09.github.io/Quantitative-Research-Methods/"><img alt="Documentation" src="https://img.shields.io/badge/docs-online-2ea44f"></a>
+  <a href="https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/"><img alt="Documentation" src="https://img.shields.io/badge/docs-online-2ea44f"></a>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <b>📖 Read it online: <a href="https://chrisw09.github.io/Quantitative-Research-Methods/">chrisw09.github.io/Quantitative-Research-Methods</a></b>
+  <b>📖 Read it online: <a href="https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/">chrisw09.github.io/Advanced-Quantitative-Research-Methods</a></b>
 </p>
 
 > **These materials are based on the textbook** *An Introduction to Statistical
@@ -270,25 +270,25 @@ computes it.
 
 | Ch. | Lab | Open in Colab |
 |:--:|--|:--:|
-| 0 · Precourse (a) — Statistics | `chapter_00_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_00/chapter_00_lab.ipynb) |
-| 0b · Precourse (b) — Toolkit | `chapter_00b_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_00b/chapter_00b_lab.ipynb) |
-| 1 · Introduction | `chapter_01_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_01/chapter_01_lab.ipynb) |
-| 2 · Statistical Learning | `chapter_02_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_02/chapter_02_lab.ipynb) |
-| 3 · Linear Regression | `chapter_03_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_03/chapter_03_lab.ipynb) |
-| 4 · Classification | `chapter_04_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_04/chapter_04_lab.ipynb) |
-| 5 · Resampling Methods | `chapter_05_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_05/chapter_05_lab.ipynb) |
-| 6 · Model Selection & Regularization | `chapter_06_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_06/chapter_06_lab.ipynb) |
-| 7 · Moving Beyond Linearity | `chapter_07_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_07/chapter_07_lab.ipynb) |
-| 8 · Tree-Based Methods | `chapter_08_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/chapter_08/chapter_08_lab.ipynb) |
+| 0 · Precourse (a) — Statistics | `chapter_00_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_00/chapter_00_lab.ipynb) |
+| 0b · Precourse (b) — Toolkit | `chapter_00b_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_00b/chapter_00b_lab.ipynb) |
+| 1 · Introduction | `chapter_01_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_01/chapter_01_lab.ipynb) |
+| 2 · Statistical Learning | `chapter_02_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_02/chapter_02_lab.ipynb) |
+| 3 · Linear Regression | `chapter_03_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_03/chapter_03_lab.ipynb) |
+| 4 · Classification | `chapter_04_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_04/chapter_04_lab.ipynb) |
+| 5 · Resampling Methods | `chapter_05_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_05/chapter_05_lab.ipynb) |
+| 6 · Model Selection & Regularization | `chapter_06_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_06/chapter_06_lab.ipynb) |
+| 7 · Moving Beyond Linearity | `chapter_07_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_07/chapter_07_lab.ipynb) |
+| 8 · Tree-Based Methods | `chapter_08_lab.ipynb` | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/chapter_08/chapter_08_lab.ipynb) |
 
 Every notebook is also
-[rendered in full](https://chrisw09.github.io/Quantitative-Research-Methods/labs.html)
+[rendered in full](https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/labs.html)
 on the documentation site, stored outputs included.
 
 ### 🐣 Python for Data Science Workshop — a separate course
 
 [`Python_Course/`](./Python_Course/) holds a **separate, self-contained
-beginner Python course** — not part of Quantitative Research Methods, with no
+beginner Python course** — not part of Advanced Quantitative Research Methods, with no
 shared prerequisites. It is vendored from the
 [Bridging AI & Society Summer Schools](https://bridgingaiandsociety.org)'
 [Python-for-Data-Science-Workshop](https://github.com/BridgingAISocietySummerSchools/Python-for-Data-Science-Workshop)
@@ -300,32 +300,32 @@ twenty-one notebooks, all Colab-ready.
 
 | # | Notebook | Time | Open in Colab |
 |:--:|---|:--:|:--:|
-| 1 | Welcome to Python | ~15 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/01_welcome_to_python.ipynb) |
-| 2 | Data Structures | ~18 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/02_data_structures.ipynb) |
-| 3 | Control Flow | ~12 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/03_control_flow.ipynb) |
-| 4 | Functions | ~12 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/04_functions.ipynb) |
-| 5 | First Steps with Pandas | ~18 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/05_pandas_intro.ipynb) |
-| ✨ | A First Look at Seaborn *(bonus)* | ~10 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/06_seaborn_intro.ipynb) |
+| 1 | Welcome to Python | ~15 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/01_welcome_to_python.ipynb) |
+| 2 | Data Structures | ~18 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/02_data_structures.ipynb) |
+| 3 | Control Flow | ~12 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/03_control_flow.ipynb) |
+| 4 | Functions | ~12 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/04_functions.ipynb) |
+| 5 | First Steps with Pandas | ~18 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/05_pandas_intro.ipynb) |
+| ✨ | A First Look at Seaborn *(bonus)* | ~10 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/01_introduction/06_seaborn_intro.ipynb) |
 
 **Track 2 — Advanced & Self-Learning** *(self-paced, ~12–14 h, fifteen notebooks)*
 
 | # | Notebook | Time | Open in Colab |
 |:--:|---|:--:|:--:|
-| 1 | Python Basics | 30–35 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/01_python_basics.ipynb) |
-| 2 | Control Structures | 35–40 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/02_control_structures.ipynb) |
-| 3 | Lists and Sequences | 30–40 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/03_lists_data_structures.ipynb) |
-| 4 | Dictionaries and Nested Data | 35–45 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/04_dictionaries_advanced.ipynb) |
-| 5 | Functions and Modules | 35–40 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/05_functions_and_modules.ipynb) |
-| 6 | NumPy Fundamentals | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/06_numpy_fundamentals.ipynb) |
-| 7 | Pandas Essentials | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/07_pandas_essentials.ipynb) |
-| 8 | Data Cleaning and Preprocessing | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/08_data_cleaning_preprocessing.ipynb) |
-| 9 | Visualisation with Matplotlib | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/09_visualization_matplotlib.ipynb) |
-| 10 | Visualisation with Seaborn | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/10_visualization_seaborn.ipynb) |
-| 11 | Exploratory Data Analysis | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/11_exploratory_data_analysis.ipynb) |
-| 12 | Machine Learning Basics | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/12_machine_learning_basics.ipynb) |
-| 13 | The Scikit-Learn Workflow | 70–85 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/13_scikit_learn_workflow.ipynb) |
-| 14 | PyTorch Basics | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/14_pytorch_basics.ipynb) |
-| 15 | Capstone Project | 75–105 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/15_capstone_project.ipynb) |
+| 1 | Python Basics | 30–35 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/01_python_basics.ipynb) |
+| 2 | Control Structures | 35–40 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/02_control_structures.ipynb) |
+| 3 | Lists and Sequences | 30–40 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/03_lists_data_structures.ipynb) |
+| 4 | Dictionaries and Nested Data | 35–45 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/04_dictionaries_advanced.ipynb) |
+| 5 | Functions and Modules | 35–40 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/05_functions_and_modules.ipynb) |
+| 6 | NumPy Fundamentals | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/06_numpy_fundamentals.ipynb) |
+| 7 | Pandas Essentials | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/07_pandas_essentials.ipynb) |
+| 8 | Data Cleaning and Preprocessing | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/08_data_cleaning_preprocessing.ipynb) |
+| 9 | Visualisation with Matplotlib | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/09_visualization_matplotlib.ipynb) |
+| 10 | Visualisation with Seaborn | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/10_visualization_seaborn.ipynb) |
+| 11 | Exploratory Data Analysis | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/11_exploratory_data_analysis.ipynb) |
+| 12 | Machine Learning Basics | 45–55 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/12_machine_learning_basics.ipynb) |
+| 13 | The Scikit-Learn Workflow | 70–85 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/13_scikit_learn_workflow.ipynb) |
+| 14 | PyTorch Basics | 50–60 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/14_pytorch_basics.ipynb) |
+| 15 | Capstone Project | 75–105 min | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Python_Course/02_advanced_self_learning/15_capstone_project.ipynb) |
 
 Full descriptions for every notebook: [`Python_Course/README.md`](./Python_Course/README.md).
 
@@ -418,15 +418,15 @@ notebook whose numbers match the slides seed-for-seed:
 
 | Module | Title | Deck | Notebook | Open in Colab |
 |:--:|---|:--:|:--:|:--:|
-| A1 | Randomised Controlled Trials — potential outcomes, selection bias, power, peeking | 69 (+6) slides | [`advanced_01_rcts_lab.ipynb`](./Chapters/Advanced/advanced_01_rcts/advanced_01_rcts_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_01_rcts/advanced_01_rcts_lab.ipynb) |
-| A2 | Explainable AI with Shapley Values — axioms, exact and Monte-Carlo Shapley, pitfalls | 71 (+8) slides | [`advanced_02_shapley_lab.ipynb`](./Chapters/Advanced/advanced_02_shapley/advanced_02_shapley_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_02_shapley/advanced_02_shapley_lab.ipynb) |
-| A3 | Conformal Prediction — split conformal, CQR, prediction sets, the OLS stress test | 70 (+7) slides | [`advanced_03_conformal_lab.ipynb`](./Chapters/Advanced/advanced_03_conformal/advanced_03_conformal_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_03_conformal/advanced_03_conformal_lab.ipynb) |
-| A4 | GLMs and Splines — exponential family, overdispersion, penalized splines, a count GAM | 82 (+8) slides | [`advanced_04_glms_splines_lab.ipynb`](./Chapters/Advanced/advanced_04_glms_splines/advanced_04_glms_splines_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_04_glms_splines/advanced_04_glms_splines_lab.ipynb) |
-| A5 | Support Vector Machines *(ISLP Ch 9)* — margins, the soft margin and *C*, kernels, tuning by CV | 84 (+10) slides | [`advanced_05_svm_lab.ipynb`](./Chapters/Advanced/advanced_05_svm/advanced_05_svm_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_05_svm/advanced_05_svm_lab.ipynb) |
-| A6 | Survival Analysis *(ISLP Ch 11)* — censoring, Kaplan–Meier, the log-rank test, Cox regression | 86 (+10) slides | [`advanced_06_survival_lab.ipynb`](./Chapters/Advanced/advanced_06_survival/advanced_06_survival_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_06_survival/advanced_06_survival_lab.ipynb) |
-| A7 | Multiple Testing *(ISLP Ch 13)* — FWER, Bonferroni and Holm, FDR, Benjamini–Hochberg | 63 (+11) slides | [`advanced_07_multiple_testing_lab.ipynb`](./Chapters/Advanced/advanced_07_multiple_testing/advanced_07_multiple_testing_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_07_multiple_testing/advanced_07_multiple_testing_lab.ipynb) |
-| A8 | Unsupervised Learning *(ISLP Ch 12)* — PCA, scaling, *K*-means and its local optima, dendrograms and linkage | 91 (+10) slides | [`advanced_08_unsupervised_lab.ipynb`](./Chapters/Advanced/advanced_08_unsupervised/advanced_08_unsupervised_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_08_unsupervised/advanced_08_unsupervised_lab.ipynb) |
-| A9 | Deep Learning *(ISLP Ch 10)* — single-layer networks, MLPs and parameter counts, convolutions, loss and SGD, regularisation | 72 (+19) slides | [`advanced_09_deep_learning_lab.ipynb`](./Chapters/Advanced/advanced_09_deep_learning/advanced_09_deep_learning_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_09_deep_learning/advanced_09_deep_learning_lab.ipynb) |
+| A1 | Randomised Controlled Trials — potential outcomes, selection bias, power, peeking | 69 (+6) slides | [`advanced_01_rcts_lab.ipynb`](./Chapters/Advanced/advanced_01_rcts/advanced_01_rcts_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_01_rcts/advanced_01_rcts_lab.ipynb) |
+| A2 | Explainable AI with Shapley Values — axioms, exact and Monte-Carlo Shapley, pitfalls | 71 (+8) slides | [`advanced_02_shapley_lab.ipynb`](./Chapters/Advanced/advanced_02_shapley/advanced_02_shapley_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_02_shapley/advanced_02_shapley_lab.ipynb) |
+| A3 | Conformal Prediction — split conformal, CQR, prediction sets, the OLS stress test | 70 (+7) slides | [`advanced_03_conformal_lab.ipynb`](./Chapters/Advanced/advanced_03_conformal/advanced_03_conformal_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_03_conformal/advanced_03_conformal_lab.ipynb) |
+| A4 | GLMs and Splines — exponential family, overdispersion, penalized splines, a count GAM | 82 (+8) slides | [`advanced_04_glms_splines_lab.ipynb`](./Chapters/Advanced/advanced_04_glms_splines/advanced_04_glms_splines_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_04_glms_splines/advanced_04_glms_splines_lab.ipynb) |
+| A5 | Support Vector Machines *(ISLP Ch 9)* — margins, the soft margin and *C*, kernels, tuning by CV | 84 (+10) slides | [`advanced_05_svm_lab.ipynb`](./Chapters/Advanced/advanced_05_svm/advanced_05_svm_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_05_svm/advanced_05_svm_lab.ipynb) |
+| A6 | Survival Analysis *(ISLP Ch 11)* — censoring, Kaplan–Meier, the log-rank test, Cox regression | 86 (+10) slides | [`advanced_06_survival_lab.ipynb`](./Chapters/Advanced/advanced_06_survival/advanced_06_survival_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_06_survival/advanced_06_survival_lab.ipynb) |
+| A7 | Multiple Testing *(ISLP Ch 13)* — FWER, Bonferroni and Holm, FDR, Benjamini–Hochberg | 63 (+11) slides | [`advanced_07_multiple_testing_lab.ipynb`](./Chapters/Advanced/advanced_07_multiple_testing/advanced_07_multiple_testing_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_07_multiple_testing/advanced_07_multiple_testing_lab.ipynb) |
+| A8 | Unsupervised Learning *(ISLP Ch 12)* — PCA, scaling, *K*-means and its local optima, dendrograms and linkage | 91 (+10) slides | [`advanced_08_unsupervised_lab.ipynb`](./Chapters/Advanced/advanced_08_unsupervised/advanced_08_unsupervised_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_08_unsupervised/advanced_08_unsupervised_lab.ipynb) |
+| A9 | Deep Learning *(ISLP Ch 10)* — single-layer networks, MLPs and parameter counts, convolutions, loss and SGD, regularisation | 72 (+19) slides | [`advanced_09_deep_learning_lab.ipynb`](./Chapters/Advanced/advanced_09_deep_learning/advanced_09_deep_learning_lab.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_09_deep_learning/advanced_09_deep_learning_lab.ipynb) |
 
 Nothing in the taught plan depends on them — but the mock exams still carry a
 multiple-testing problem, which now draws on module A7, and any
@@ -445,12 +445,12 @@ gives a baseline to beat, and asks for a **one-page memo with specific numbers**
 
 | # | Project | The decision | Data | After | Starter in Colab |
 |:--:|---|---|:--:|:--:|:--:|
-| 1 | Who should we call? | A ranked shortlist of 500 prospects, and how many policies it sells | `Caravan` | after Ch 5 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_1_caravan/project_1_starter.ipynb) |
-| 2 | Five numbers or seventeen? | Whether a board-readable five-variable model is defensible | `College` | after Ch 6 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_2_college/project_2_starter.ipynb) |
-| 3 | Can you predict the market? | Whether a fund should trade on last week's returns | `Weekly` | after Ch 5 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_3_weekly/project_3_starter.ipynb) |
-| 4 | A model the brand manager can read | Accuracy versus explainability, and which to deploy | `OJ` | after Ch 8 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_4_oj/project_4_starter.ipynb) |
-| 5 | What is it worth, and how sure are you? | Five valuations, each with a defensible interval | `Boston` | after Ch 7 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_5_boston/project_5_starter.ipynb) |
-| 6 | How many managers can actually pick stocks? | One number for a pension trustee — possibly zero | `Fund` | end of course *(module A7)* | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_6_fund/project_6_starter.ipynb) |
+| 1 | Who should we call? | A ranked shortlist of 500 prospects, and how many policies it sells | `Caravan` | after Ch 5 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_1_caravan/project_1_starter.ipynb) |
+| 2 | Five numbers or seventeen? | Whether a board-readable five-variable model is defensible | `College` | after Ch 6 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_2_college/project_2_starter.ipynb) |
+| 3 | Can you predict the market? | Whether a fund should trade on last week's returns | `Weekly` | after Ch 5 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_3_weekly/project_3_starter.ipynb) |
+| 4 | A model the brand manager can read | Accuracy versus explainability, and which to deploy | `OJ` | after Ch 8 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_4_oj/project_4_starter.ipynb) |
+| 5 | What is it worth, and how sure are you? | Five valuations, each with a defensible interval | `Boston` | after Ch 7 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_5_boston/project_5_starter.ipynb) |
+| 6 | How many managers can actually pick stocks? | One number for a pension trustee — possibly zero | `Fund` | end of course *(module A7)* | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_6_fund/project_6_starter.ipynb) |
 
 Each has a trap the brief does not reveal, and in several of them **"this cannot
 be predicted well enough to act on" is a correct answer**. The projects are
@@ -466,7 +466,7 @@ formative — the module is graded by the written exam — and each folder carri
 | [`Chapters/`](./Chapters/) | **One folder per chapter, holding its deck and its lab together**: `chapter_NN/` contains `chapter_NN.tex`, the compiled `.pdf`, `images/`, and `chapter_NN_lab.ipynb`. Ten decks and ten notebooks, one pair per chapter. See its [deck guide](./Chapters/README.md). |
 | [`Chapters/Advanced/`](./Chapters/Advanced/) | Nine optional self-study modules — RCTs, Shapley values, conformal prediction, GLMs & splines, SVMs, survival analysis, multiple testing, unsupervised learning — each a full deck plus companion notebook. See its [module guide](./Chapters/Advanced/README.md). |
 | [`Projects/`](./Projects/) | Six short projects (3–5 h): a real decision on real data, with a fixed held-out set, a baseline to beat and a one-page memo as the deliverable. See its [project guide](./Projects/README.md). |
-| [`Python_Course/`](./Python_Course/) | A separate, self-contained beginner Python course (21 notebooks, two tracks), vendored from an external MIT-licensed workshop — not part of Quantitative Research Methods. See its [guide](./Python_Course/README.md). |
+| [`Python_Course/`](./Python_Course/) | A separate, self-contained beginner Python course (21 notebooks, two tracks), vendored from an external MIT-licensed workshop — not part of Advanced Quantitative Research Methods. See its [guide](./Python_Course/README.md). |
 | [`Teaching_Guide/`](./Teaching_Guide/) | Instructor material: semester plan, runsheets, slide index, before-class checklist, printable handouts |
 | [`ALL CSV FILES - 2nd Edition/`](./ALL%20CSV%20FILES%20-%202nd%20Edition/) | Course datasets (from [statlearning.com](https://www.statlearning.com)) |
 | [`Makefile`](./Makefile) | One-command rebuild of figures, decks, handouts and the index |
@@ -504,13 +504,13 @@ figure to its source.
 
 ## 📖 Documentation
 
-**📖 <https://chrisw09.github.io/Quantitative-Research-Methods/>**
+**📖 <https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/>**
 
 Everything above — the course plan, the decks, all ten labs rendered in
 full, the teaching guide, the exams and the datasets — is published as a
 browsable site. It is **built and published by hand** — the repository carries
 no CI — so after changing the materials, rebuild and deploy it (see
-[Building the docs](https://chrisw09.github.io/Quantitative-Research-Methods/building-docs.html)).
+[Building the docs](https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/building-docs.html)).
 
 To build it locally from [`docs/`](./docs/):
 
@@ -554,7 +554,7 @@ and contribute to open-source software.
 
 ## 📄 Citation & licence
 
-The **Quantitative Research Methods** course materials are based on, and follow
+The **Advanced Quantitative Research Methods** course materials are based on, and follow
 the structure of, the textbook *An Introduction to Statistical Learning, with
 Applications in Python*. If you reuse them, please cite the source textbook:
 

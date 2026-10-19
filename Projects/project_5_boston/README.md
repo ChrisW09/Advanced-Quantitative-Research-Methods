@@ -107,7 +107,7 @@ Open `project_5_starter.ipynb`. It loads the data, shows you the target, compute
 reference figures and the baseline, seals the test set, names the five tracts, and defines
 the evaluation helper. Your work begins at the cell marked **Step 1**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_5_boston/project_5_starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_5_boston/project_5_starter.ipynb)
 
 Worked notes are in `SOLUTION_NOTES.md`. They are published alongside this brief, on the
 understanding that you read them **after** your attempt, not instead of one.

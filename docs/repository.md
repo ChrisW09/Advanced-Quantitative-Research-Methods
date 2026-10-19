@@ -97,7 +97,7 @@ make them useless as assessment.
 
 ## Related reading
 
-- [`Chapters/README.md`](https://github.com/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/README.md)
+- [`Chapters/README.md`](https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/README.md)
   — the deck guide, with per-chapter exercise counts, the contents of each
   deck's appendix, and the full 11-session plan.
 - [Teaching it](teaching.md) — the instructor kit and the `make` targets.

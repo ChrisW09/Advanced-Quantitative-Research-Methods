@@ -1,12 +1,12 @@
 ---
 myst:
   html_meta:
-    description: "How to cite the Quantitative Research Methods course materials and the ISLP textbook they are based on, attribution, and how to contact the author."
+    description: "How to cite the Advanced Quantitative Research Methods course materials and the ISLP textbook they are based on, attribution, and how to contact the author."
 ---
 
 # Citation & licence
 
-The **Quantitative Research Methods** course materials are based on, and follow
+The **Advanced Quantitative Research Methods** course materials are based on, and follow
 the structure of, the textbook *An Introduction to Statistical Learning, with
 Applications in Python*. If you reuse them, please cite the source textbook.
 
@@ -30,13 +30,13 @@ Applications in Python*. If you reuse them, please cite the source textbook.
 
 ## Citing these materials
 
-The repository ships a [`CITATION.cff`](https://github.com/ChrisW09/Quantitative-Research-Methods/blob/main/CITATION.cff)
+The repository ships a [`CITATION.cff`](https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/CITATION.cff)
 file, so GitHub's "Cite this repository" button produces a correct entry
 automatically. In prose:
 
-> Weisser, C. (2026). *Quantitative Research Methods — Lecture Materials.*
+> Weisser, C. (2026). *Advanced Quantitative Research Methods — Lecture Materials.*
 > Hochschule Bielefeld (HSBI).
-> <https://github.com/ChrisW09/Quantitative-Research-Methods>
+> <https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods>
 
 Please cite the textbook alongside it.
 

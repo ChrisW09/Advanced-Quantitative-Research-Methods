@@ -62,4 +62,4 @@ Two warnings drawn from previous cohorts. First, **report the comparison you act
 
 Open [`project_2_starter.ipynb`](project_2_starter.ipynb). It loads the data, shows the first look, defines the sealed split, computes the baseline, and gives you two helpers — `cv_rmse()` for honest model selection and `evaluate()` for the single final score. Your work goes under the numbered `## Step` headings at the end.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_2_college/project_2_starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_2_college/project_2_starter.ipynb)

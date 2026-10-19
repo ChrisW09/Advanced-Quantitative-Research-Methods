@@ -51,6 +51,6 @@
 
 Open `project_4_starter.ipynb`. It loads the data, shows the two properties of the columns that shape requirement 1, defines the held-out split, computes the baseline, and provides `evaluate()`. Your work begins at **Step 1**; add code cells under the headings.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_4_oj/project_4_starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_4_oj/project_4_starter.ipynb)
 
 `SOLUTION_NOTES.md` in this folder is published alongside the brief, as this course's policy is. Read it **after** your attempt — reading it first turns a five-hour exercise into a twenty-minute one and teaches you nothing.

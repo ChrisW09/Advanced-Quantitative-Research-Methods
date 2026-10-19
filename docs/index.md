@@ -4,7 +4,7 @@ myst:
     description: "A complete, ready-to-teach university course in statistical learning based on ISLP — ten Beamer lecture decks, ten Jupyter labs, nine advanced modules, eight mock exams and the course datasets."
 ---
 
-# Quantitative Research Methods
+# Advanced Quantitative Research Methods
 
 {.qrm-lead}
 A complete, ready-to-teach university course in statistical learning — ten

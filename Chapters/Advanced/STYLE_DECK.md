@@ -80,13 +80,13 @@ editing only the chapter number/title in the comment header and in `\title`/`\su
   boxrule=0pt,leftrule=2.5pt,arc=2pt,fonttitle=\bfseries,title=#1,
   left=2mm,right=2mm,top=1mm,bottom=1mm}
 
-\title{Quantitative Research Methods}
+\title{Advanced Quantitative Research Methods}
 \subtitle{Chapter 13: Multiple Testing}
 \author{Prof.\ Dr.\ Christoph Weisser}
 \date{}\graphicspath{{images/}}
 % Course repository --- on the title page of every deck
 \usepackage{fontawesome5}
-\newcommand{\courserepo}{\href{https://github.com/ChrisW09/Quantitative-Research-Methods}{\color{accent}\faGithub\ \texttt{github.com/ChrisW09/Quantitative-Research-Methods}}}
+\newcommand{\courserepo}{\href{https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods}{\color{accent}\faGithub\ \texttt{github.com/ChrisW09/Advanced-Quantitative-Research-Methods}}}
 \titlegraphic{\small Slides, lab notebooks and data:\ \courserepo}
 
 \newtcolorbox{exercise}[1][Exercise]{enhanced, fontupper=\footnotesize, colback=purple!4, colframe=purple!55!black, boxrule=0pt, leftrule=2.5pt, arc=2pt, fonttitle=\bfseries, title=#1, left=2mm, right=2mm, top=1mm, bottom=1mm}

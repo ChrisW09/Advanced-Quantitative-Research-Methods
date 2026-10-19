@@ -55,6 +55,6 @@ A memo that concludes **"our best ranking gives a 1.1× lift, statistically indi
 
 Open [`project_1_starter.ipynb`](./project_1_starter.ipynb). It loads the data, defines the sealed split, computes the random baseline you must beat, and gives you the two helpers — `save_shortlist()` and `evaluate_shortlist()` — that make your number comparable with everyone else's. Your work begins at the cell marked **Step 1**.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_1_caravan/project_1_starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_1_caravan/project_1_starter.ipynb)
 
 Do not read `SOLUTION_NOTES.md` until you have a memo of your own.

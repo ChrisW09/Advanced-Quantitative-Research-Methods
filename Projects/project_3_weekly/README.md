@@ -109,7 +109,7 @@ this series that shapes everything, defines the held-out split, computes the
 baseline, and gives you the `evaluate()` helper. Your work begins at
 **Step 1**; add code cells beneath the numbered markdown headings.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Projects/project_3_weekly/project_3_starter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Projects/project_3_weekly/project_3_starter.ipynb)
 
 *The notebook runs on Colab as-is — the badge above and the `GITHUB_RAW` line in
 its setup cell already point to this repository, so packages install and data

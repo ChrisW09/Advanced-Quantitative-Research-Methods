@@ -20,14 +20,14 @@ Follow it exactly.
 **Cell 0 — markdown, Colab badge:**
 
 ```markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_07_multiple_testing/advanced_07_multiple_testing_lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChrisW09/Advanced-Quantitative-Research-Methods/blob/main/Chapters/Advanced/advanced_07_multiple_testing/advanced_07_multiple_testing_lab.ipynb)
 
 *This notebook runs on Colab as-is. The badge link above and the `GITHUB_RAW` line in the setup cell already point to this repository, so everything installs and loads automatically.*
 ```
 
 For a notebook living in **`Chapters/Advanced/`**, the badge URL path must be
 `.../blob/main/Chapters/Advanced/advanced_NN_topic/advanced_NN_topic_lab.ipynb` (only the path segment
-changes; repo stays `ChrisW09/Quantitative-Research-Methods`).
+changes; repo stays `ChrisW09/Advanced-Quantitative-Research-Methods`).
 
 **Cell 1 — markdown, header:**
 
@@ -35,7 +35,7 @@ changes; repo stays `ChrisW09/Quantitative-Research-Methods`).
 # Chapter 13 — Multiple Testing
 ## Lab: Bonferroni, Holm, Benjamini–Hochberg, permutation tests
 
-**Course:** Quantitative Research Methods  
+**Course:** Advanced Quantitative Research Methods  
 **Instructor:** Prof. Dr. Christoph Weisser  
 **Source:** James, Witten, Hastie, Tibshirani & Taylor (2023), *An Introduction to Statistical Learning, with Applications in Python*, Springer. Companion code at [statlearning.com](https://www.statlearning.com).
 ```
@@ -104,7 +104,7 @@ CSV = next((p for p in _CANDIDATES if os.path.isdir(p)), 'data')
 
 # GITHUB_RAW lets a fresh Colab runtime fetch any
 # CSV that is neither in ISLP nor already local (spaces in the folder -> %20).
-GITHUB_RAW = ('https://raw.githubusercontent.com/ChrisW09/Quantitative-Research-Methods/main/'
+GITHUB_RAW = ('https://raw.githubusercontent.com/ChrisW09/Advanced-Quantitative-Research-Methods/main/'
               'ALL%20CSV%20FILES%20-%202nd%20Edition')
 
 # The four datasets NOT in the ISLP package -> load from the book's official

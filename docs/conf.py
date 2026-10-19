@@ -1,4 +1,4 @@
-"""Sphinx configuration for the Quantitative Research Methods course docs.
+"""Sphinx configuration for the Advanced Quantitative Research Methods course docs.
 
 The course materials live outside ``docs/``: each chapter keeps its deck and its
 lab together in ``Chapters/chapter_NN/``, and each advanced module does the same
@@ -127,7 +127,7 @@ stage_materials()  # also run at import time so `sphinx-build` on a clean tree w
 
 # -- Project information ------------------------------------------------------
 
-project = "Quantitative Research Methods"
+project = "Advanced Quantitative Research Methods"
 author = "Prof. Dr. Christoph Weisser"
 # The year comes from the clock, not from a literal that has to be remembered
 # each January. (ISLP's 2023 is the book's publication year and is fixed.)
@@ -172,8 +172,8 @@ nb_merge_streams = True
 # -- HTML output --------------------------------------------------------------
 
 html_theme = "furo"
-html_title = "Quantitative Research Methods"
-html_short_title = "QRM"
+html_title = "Advanced Quantitative Research Methods"
+html_short_title = "AQRM"
 html_static_path = ["_static"]
 html_extra_path = ["_extra"]
 html_css_files = ["custom.css"]
@@ -194,13 +194,13 @@ html_theme_options = {
         "color-brand-content": "#6ec3e4",
         "color-brand-visited": "#6ec3e4",
     },
-    "source_repository": "https://github.com/ChrisW09/Quantitative-Research-Methods/",
+    "source_repository": "https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods/",
     "source_branch": "main",
     "source_directory": "docs/",
     "footer_icons": [
         {
             "name": "GitHub",
-            "url": "https://github.com/ChrisW09/Quantitative-Research-Methods",
+            "url": "https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods",
             "html": (
                 '<svg stroke="currentColor" fill="currentColor" stroke-width="0" '
                 'viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 '
@@ -224,7 +224,7 @@ latex_documents = [
     (
         "index",
         "QuantitativeResearchMethods.tex",
-        "Quantitative Research Methods",
+        "Advanced Quantitative Research Methods",
         author,
         "manual",
     ),

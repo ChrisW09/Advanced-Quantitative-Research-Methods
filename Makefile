@@ -1,4 +1,4 @@
-# Quantitative Research Methods — course build
+# Advanced Quantitative Research Methods — course build
 #
 #   make            rebuild anything out of date (figures, decks, index)
 #   make decks      rebuild every lecture deck that changed
@@ -205,7 +205,7 @@ deploy: docs
 	  || git -C $(WORKTREE) commit -qm "Publish site from $$(git rev-parse --short HEAD)"
 	@git -C $(WORKTREE) push -q origin gh-pages
 	@git worktree remove --force $(WORKTREE)
-	@echo "published -> https://chrisw09.github.io/Quantitative-Research-Methods/"
+	@echo "published -> https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/"
 
 # ------------------------------------------------------------------------ exams
 # Mock_Exams/ is git-ignored; this only works on a machine that has it.

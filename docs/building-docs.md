@@ -84,7 +84,7 @@ row in that page's table too, for the Colab badge.
 
 ## Publishing
 
-The site is live at **<https://chrisw09.github.io/Quantitative-Research-Methods/>**.
+The site is live at **<https://chrisw09.github.io/Advanced-Quantitative-Research-Methods/>**.
 
 ```{admonition} Publishing is now a manual step
 :class: important
