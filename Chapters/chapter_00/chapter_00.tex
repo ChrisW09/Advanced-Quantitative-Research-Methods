@@ -71,6 +71,7 @@
 \usepackage{fontawesome5}
 \newcommand{\courserepo}{\href{https://github.com/ChrisW09/Advanced-Quantitative-Research-Methods}{\color{accent}\faGithub\ \texttt{github.com/ChrisW09/Advanced-Quantitative-Research-Methods}}}
 \titlegraphic{\small Slides, lab notebooks and data:\ \courserepo}
+\definecolor{linkedinblue}{RGB}{10,102,194}\definecolor{instagrampink}{RGB}{225,48,108}
 
 \newtcolorbox{exercise}[1][Exercise ($\approx$5 min) --- try it before the solution]{enhanced, fontupper=\footnotesize, colback=purple!4, colframe=purple!55!black, boxrule=0pt, leftrule=2.5pt, arc=2pt, fonttitle=\bfseries, title=#1, left=2mm, right=2mm, top=1mm, bottom=1mm}
 \newtcolorbox{solutionbox}[1][Solution]{enhanced, colback=teal!5, colframe=teal!55!black, boxrule=0pt, leftrule=2.5pt, arc=2pt, fonttitle=\bfseries, title=#1, left=2mm, right=2mm, top=1mm, bottom=1mm}
@@ -94,13 +95,18 @@
       \centering
       \begin{tikzpicture}
         \begin{scope}
-          \clip[rounded corners=6pt] (0,0) rectangle (0.576\textheight,0.72\textheight);
+          \clip[rounded corners=6pt] (0,0) rectangle (0.512\textheight,0.64\textheight);
           \node[anchor=south west,inner sep=0pt] at (0,0)
-            {\includegraphics[height=0.72\textheight]{ch00_profile.jpg}};
+            {\includegraphics[height=0.64\textheight]{ch00_profile.jpg}};
         \end{scope}
         \draw[accent,line width=0.8pt,rounded corners=6pt]
-          (0,0) rectangle (0.576\textheight,0.72\textheight);
-      \end{tikzpicture}
+          (0,0) rectangle (0.512\textheight,0.64\textheight);
+      \end{tikzpicture}\par
+      \vspace{2mm}
+      \footnotesize
+      {\color{linkedinblue}\faLinkedin}\ \href{https://www.linkedin.com/in/christophweisser}{\color{accent}christophweisser}\par
+      \vspace{1pt}
+      {\color{instagrampink}\faInstagram}\ \href{https://www.instagram.com/christoph.j.weisser}{\color{accent}christoph.j.weisser}
     \end{column}
     \begin{column}{0.62\textwidth}
       {\large\bfseries\color{accent}Prof.\ Dr.\ rer.\ pol.\ Christoph Weisser}\par
@@ -118,7 +124,7 @@
       \footnotesize
       \faEnvelope[regular]\ \href{mailto:christoph.weisser@hsbi.de}{\color{accent}\texttt{christoph.weisser@hsbi.de}}\par
       \vspace{2pt}
-      \mbox{\courserepo}
+      {\scriptsize\mbox{\courserepo}}
     \end{column}
   \end{columns}
 \end{frame}

@@ -19,6 +19,11 @@ Teaching_Guide/runsheets/
 # Holds the TDU/BM024 syllabus (.docx) and the organisational Beamer deck.
 TDU/
 
+# --- Original high-res portrait: local only, do NOT publish -------------------
+# The slides and README use the resized copy at
+# Chapters/chapter_00/images/ch00_profile.jpg instead.
+Instagram_Feed_Portrait_4x5_HighRes.jpg
+
 # --- Build output -------------------------------------------------------------
 Teaching_Guide/handouts/
 # Marks the last successful make_figures.py run (see the Makefile).
